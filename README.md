@@ -1,1 +1,1 @@
-# polenta-driver-jdbc-test
+# Polenta DB - JDBC Driver - test
